@@ -1,4 +1,5 @@
-📧 Email Username Validator in C++
+#📧 Email Username Validator in C++
+
 📌 Description
 This project is a simple Email Username Validation program written in C++.
 It checks whether the username part of an email (before the @ symbol) follows specific rules.
