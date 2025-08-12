@@ -1,0 +1,14 @@
+Enter the email : john_doe123@example.com
+Valid Username✅☺️😉
+Username : john_doe123
+
+
+Enter the email : _abc@example.com
+Not a Valid❌❌ email plz go through it !!☺️✅
+
+🔒 Username Validation Rules:
+1. Must be at least 5 characters long
+2. Must start with a letter
+3. Can contain letters, digits, '_' and '.' only
+4. Cannot start or end with '_' or '.'
+5. Cannot contain consecutive special characters like '__' or '..'
